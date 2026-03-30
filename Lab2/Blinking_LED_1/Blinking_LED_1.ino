@@ -1,5 +1,5 @@
 // Define the LED pins
-int ledPins[] = {2, 3, 4, 5}; // Adjust according to your wiring (e.g., pins 2,3,4,5)
+int ledPins[] = {2, 3, 4, 5}; // Adjust according to your wiring
 int numLEDs = sizeof(ledPins) / sizeof(ledPins[0]);
 
 void setup() {
